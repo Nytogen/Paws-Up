@@ -1,0 +1,1 @@
+import { ip } from 'projectf21-loading/frontend/PawsUp/global.js';
